@@ -1,52 +1,42 @@
-﻿using System;
-//nÃO PODE ACEITAR NUMEROS NEGATIVOS!!!!!!!
+﻿//nÃO PODE ACEITAR NUMEROS NEGATIVOS!!!!!!!
 
-class Programa
+internal class Programa
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
-        int num,maior, menor;
-        int cont=0, contMaior, contMenor;
+        int num, maior = 0, menor = 0;
+        bool continuar2 = true;
 
         void estrutura()
         {
-
-            do 
+            while (continuar2)
             {
                 Console.WriteLine("Digite um número!");
                 num = int.Parse(Console.ReadLine()!);
-                cont++;
-                contMaior = cont;
-                contMenor = cont;
-                maior = num;
-                menor = num;
-            } while (cont<0);
-            do
-            {
-                Console.WriteLine("Digite um número!");
-                num = int.Parse(Console.ReadLine()!);
-                cont++;
+                if (num == -1)
+                {
+                    continuar2 = false;
+                }
                 if (num <= menor)
                 {
                     menor = num;
-                    contMenor = cont;
                 }
-                if(num>= maior)
+                if (num >= maior && num != -1)
                 {
                     maior = num;
-                    contMaior = cont;
                 }
-            }while ();
-
+            }
+            Console.WriteLine($"O maior numero digitado foi:{maior}.\nO menor numero digitado foi:{menor}.");
         }
+
         bool continuar = true;
-        while(continuar)
+        while (continuar)
         {
             //INICIO DO PROGRAMA.
             estrutura();
             //FIM DO PROGRAMA.
             Console.WriteLine("Deseja encerrar o programa ?");
-            if (Console.ReadLine()=="s" || Console.ReadLine() == "S")
+            if (Console.ReadLine() == "s" || Console.ReadLine() == "S")
             {
                 Console.WriteLine("STOP!!");
                 continuar = false;
