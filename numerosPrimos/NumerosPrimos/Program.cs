@@ -2,10 +2,10 @@
 
 class Program
 {
-    static void main()
+    static void Main()
     {
         int contPrimos = 0;
-        int Num = 2;
+        int Num = 1;
         int NumPrimo;
 
         while (contPrimos < 9) 
