@@ -4,15 +4,32 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe as horas (formato HH:mm):");
-        DateTime hora;
+        Console.WriteLine("Informe a hora (0-23):");
+        int hora;
 
         // Laço para garantir que o usuário forneça uma entrada válida
-        while (!DateTime.TryParseExact(Console.ReadLine(), "HH:mm", null, System.Globalization.DateTimeStyles.None, out hora))
+        while (!int.TryParse(Console.ReadLine(), out hora) || hora < 0 || hora > 23)
         {
-            Console.WriteLine("Formato de hora inválido. Por favor, insira no formato HH:mm.");
+            Console.WriteLine("Hora inválida. Por favor, insira um número inteiro de 0 a 23.");
         }
 
-        Console.WriteLine($"Você inseriu: {hora.ToString("HH:mm")}");
+        string saudacao = ObterSaudacao(hora);
+        Console.WriteLine(saudacao);
+    }
+
+    static string ObterSaudacao(int hora)
+    {
+        if (hora >= 6 && hora < 12)
+        {
+            return "Bom dia!";
+        }
+        else if (hora >= 12 && hora < 18)
+        {
+            return "Boa tarde!";
+        }
+        else
+        {
+            return "Boa noite!";
+        }
     }
 }
