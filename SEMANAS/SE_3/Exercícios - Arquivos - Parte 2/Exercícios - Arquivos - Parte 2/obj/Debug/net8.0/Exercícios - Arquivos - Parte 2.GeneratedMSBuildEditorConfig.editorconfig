@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercícios___Arquivos___Parte_2
+build_property.ProjectDir = C:\Users\matheus.souza\Desktop\Matheus-Emanoel-Souza\AED1\SEMANAS\SE_3\Exercícios - Arquivos - Parte 2\Exercícios - Arquivos - Parte 2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
