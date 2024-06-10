@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.souza\\source\\repos\\AED1\\SEMANAS\\SE_7\\Exerc\u00EDcio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323C1D9F-960F-4803-A1F9-FBCE0FC34A46}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|c:\\users\\matheus.souza\\source\\repos\\aed1\\semanas\\se_7\\exerc\u00EDcio 2\\exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323C1D9F-960F-4803-A1F9-FBCE0FC34A46}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|solutionrelative:exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza\\source\\repos\\AED1\\SEMANAS\\SE_7\\Exerc\u00EDcio 2\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.souza\\source\\repos\\AED1\\SEMANAS\\SE_7\\Exerc\u00EDcio 2\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:26:45.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
