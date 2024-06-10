@@ -1,0 +1,2 @@
+﻿namespace Herança.pessoa;
+

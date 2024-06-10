@@ -1,0 +1,15 @@
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\bin\Debug\net8.0\Herança.exe
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\bin\Debug\net8.0\Herança.deps.json
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\bin\Debug\net8.0\Herança.dll
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\bin\Debug\net8.0\Herança.pdb
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.sourcelink.json
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.dll
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\refint\Herança.dll
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.pdb
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+C:\Users\matheus.souza\source\repos\AED1\SEMANAS\SE_7\Herança\Herança\obj\Debug\net8.0\ref\Herança.dll
